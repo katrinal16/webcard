@@ -47,13 +47,13 @@ body {
 }
 
 .card-front {
-	background-color: grey;
-	color: #486342;
+	background-color: #3A5620;
+	color: #eef3ff;
 }
 
 .card-back {
-	background: #fff;
-	color: #58743F;
+	background: #3A5620;
+	color: #0c2238;
 	transform: rotateY(180deg);
 }
 
