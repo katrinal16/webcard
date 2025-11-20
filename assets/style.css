@@ -48,12 +48,12 @@ body {
 
 .card-front {
 	background-color: grey;
-	color: #eef3ff;
+	color: #486342;
 }
 
 .card-back {
 	background: #fff;
-	color: #0c2238;
+	color: #58743F;
 	transform: rotateY(180deg);
 }
 
